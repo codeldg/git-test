@@ -1,0 +1,1 @@
+Apparently amending using "git commit --amend -m" will delete the contents of the file
